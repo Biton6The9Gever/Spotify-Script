@@ -52,7 +52,7 @@ SpotifyScript
 ├─ node_modules/          # Installed dependencies 
 ├─.gitignore
 ├─ config.example.js      # Template for Spotify credentials
-├─ config.js             # (Created by user) Holds actual credentials, ignored by git 
+├─ config.js              # (Created by user) Holds actual credentials, ignored by git 
 ├─ package.json         
 ├─ package-lock.json
 └─ script.js              # Main script
