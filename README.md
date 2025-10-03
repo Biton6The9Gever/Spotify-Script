@@ -1,4 +1,4 @@
-## How to Use the Script
+## How to Use the Script (OUTDATED)
 
 1. **Create a Spotify Developer account**  
    - Go to [Spotify for Developers](https://developer.spotify.com/) and sign up (free).  
@@ -55,11 +55,11 @@ SpotifyScript
 ├─ config.js              # (Created by user) Holds actual credentials, ignored by git 
 ├─ package.json         
 ├─ package-lock.json
-└─ script.js              # Main script
+├─ TopArtist.js           # TopArtists scripts
+└─ script.js              # New artist playlist script
 ```
 
 ---
 ## Requirements
 - Node.js v16 or higher
-- A Spotify Developer account
 
